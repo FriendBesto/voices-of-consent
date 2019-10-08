@@ -131,4 +131,4 @@ You only need this if you're interested in working on emails in the development 
 
 ### Contributing
 
-Your contributions are welcome! For more details, please see https://github.com/rubyforgood/voices-of-consent/blob/develop/CONTRIBUTING.md
+Your contributions are welcome! For more details, please see [CONTRIBUTING](https://github.com/rubyforgood/voices-of-consent/blob/develop/CONTRIBUTING.md)
